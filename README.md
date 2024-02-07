@@ -31,7 +31,7 @@ Clonamos el repositorio
 ```
 Se accede a la carpeta principal del repositorio repositorio que acabamos de clonar
 
-	 cd taller02AREP
+	 cd TALLER-DISE-O-Y-ESTRUCTURACI-N-DE-APLICACIONES-DISTRIBUIDAS-EN-INTERNET
 
 Hacemos la construccion del proyecto
 
