@@ -67,26 +67,33 @@ Aqui nos debera de cargar la siguiente pagina, con la cual podemos empezar a hac
 
 # Documentos CSS
 
+![image](https://github.com/franciscoMarquezBocanegra/TALLER-DISE-O-Y-ESTRUCTURACI-N-DE-APLICACIONES-DISTRIBUIDAS-EN-INTERNET/assets/98216991/7e7fb204-3b3a-479a-bcd4-218fc17cc9d4)
 
 
 # Documentos JS
 
+![image](https://github.com/franciscoMarquezBocanegra/TALLER-DISE-O-Y-ESTRUCTURACI-N-DE-APLICACIONES-DISTRIBUIDAS-EN-INTERNET/assets/98216991/048115b9-617b-47d9-8883-59d8d307e653)
 
 
 
 # Documentos JPG
 
 
+![image](https://github.com/franciscoMarquezBocanegra/TALLER-DISE-O-Y-ESTRUCTURACI-N-DE-APLICACIONES-DISTRIBUIDAS-EN-INTERNET/assets/98216991/9030c4be-5970-4c8a-9935-c2a95d986b5d)
 
 
 
 # Documentos aplicacion HTML CSS Y JS
 
 
+![image](https://github.com/franciscoMarquezBocanegra/TALLER-DISE-O-Y-ESTRUCTURACI-N-DE-APLICACIONES-DISTRIBUIDAS-EN-INTERNET/assets/98216991/720884e5-f7f8-41aa-84a2-abfedcd662ac)
+
+
 
 # Aplicacion de servicio REST
 
 
+![image](https://github.com/franciscoMarquezBocanegra/TALLER-DISE-O-Y-ESTRUCTURACI-N-DE-APLICACIONES-DISTRIBUIDAS-EN-INTERNET/assets/98216991/319c39bf-b8dc-4149-a4e6-d2c80841f3ee)
 
 
 
